@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fiammass
-- 👀 I’m interested in hiking
-- 🌱 I’m currently learning coding java
+- 👀 I’m interested in coding
+- 🌱 I’m currently studing computer science in Federico II di Napoli
 - 📫 How to reach me mariopalladino1204@gmail.com
   
 
